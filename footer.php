@@ -11,7 +11,7 @@
  * @since 1.0.0
  */
 
-?>
+?> 
 			<footer id="site-footer" role="contentinfo" class="header-footer-group">
 
 				<div class="section-inner">
